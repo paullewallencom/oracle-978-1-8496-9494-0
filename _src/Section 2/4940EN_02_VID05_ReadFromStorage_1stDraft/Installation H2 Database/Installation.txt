@@ -1,0 +1,10 @@
+
+1. Run the h2-setup-2012-11-30.exe and install the H2 Database. After installed, start the "H2 Console ( Command Line )" in the "Start Menu" for Windows. 
+2. Then automatically, default web browser is started. ( http://localhost:8082/ )
+3. Choose the "Generic H2 ( Server )" saved settings. Then click "Connect".
+4. After you connected to the database run the contents of "PrepareData.sql" script to create customers and logs table and fill the customers table.
+5. To test; type "select * from customers" and run.
+6. Then finally, add the "h2-1.3.170.jar" file to the classpath of this project.
+
+
+

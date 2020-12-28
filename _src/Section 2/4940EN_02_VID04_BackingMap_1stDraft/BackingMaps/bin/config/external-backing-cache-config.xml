@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+
+
+<cache-config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns="http://xmlns.oracle.com/coherence/coherence-cache-config"
+	xsi:schemaLocation="http://xmlns.oracle.com/coherence/coherence-cache-config coherence-cache-config.xsd">
+	<defaults>
+		<serializer>pof</serializer>
+	</defaults>
+
+	<caching-scheme-mapping>
+		<cache-mapping>
+			<cache-name>customers</cache-name>
+			<scheme-name>MyExternalScheme</scheme-name>
+
+		</cache-mapping>
+
+	</caching-scheme-mapping>
+
+	<caching-schemes>
+		<distributed-scheme>
+			<scheme-name>MyExternalScheme</scheme-name>
+			<backing-map-scheme>
+				<external-scheme>
+					<bdb-store-manager>
+						<directory>D://Bdb//</directory>
+						<store-name>Customers</store-name>
+					</bdb-store-manager>
+					<high-units>20000000</high-units>
+				</external-scheme>
+			</backing-map-scheme>
+		</distributed-scheme>
+	</caching-schemes>
+</cache-config>

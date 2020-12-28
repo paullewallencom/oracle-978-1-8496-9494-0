@@ -1,0 +1,5 @@
+Batch Counter	Report Time	RefreshTime	Node Id	Tx Success	Rx Success	PacketsSent	Current Packets Sent	PacketsResent	Current Packet Resent	PacketsRepeated	Current Repeated	PacketsReceived	Current Packets Received
+1	Wed Feb 06 22:59:36 EET 2013	Wed Feb 06 22:59:36 EET 2013	1	1.0	1.0	582	582	0	0	0	0	594	594
+1	Wed Feb 06 22:59:36 EET 2013	Wed Feb 06 22:59:35 EET 2013	2	1.0	1.0	513	513	0	0	0	0	587	587
+1	Wed Feb 06 22:59:36 EET 2013	Wed Feb 06 22:59:35 EET 2013	1	1.0	1.0	580	580	0	0	0	0	593	593
+1	Wed Feb 06 22:59:36 EET 2013	Wed Feb 06 22:59:36 EET 2013	2	1.0	1.0	539	539	0	0	0	0	602	602

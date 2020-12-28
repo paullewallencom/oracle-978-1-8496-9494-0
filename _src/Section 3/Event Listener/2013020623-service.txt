@@ -1,0 +1,18 @@
+Batch Counter	ReportTime	Service	Node Id	RefreshTime	Request Count	RequestPendingCount	RequestPendingDuration	Request Timeout Count	Task Count	TaskBacklog	Task Timeout Count	Task Hung Count	Thread Abandoned Count
+2	Wed Feb 06 23:00:36 EET 2013	MyPartitionedService	1	Wed Feb 06 23:00:36 EET 2013	0.0	0	0	0.0	0.0	0	0.0	0	0.0
+2	Wed Feb 06 23:00:36 EET 2013	MyPartitionedService	2	Wed Feb 06 23:00:36 EET 2013	0.0	0	0	0.0	0.0	0	0.0	0	0.0
+2	Wed Feb 06 23:00:37 EET 2013	MyPartitionedService	1	Wed Feb 06 23:00:36 EET 2013	0.0	0	0	0.0	0.0	0	0.0	0	0.0
+2	Wed Feb 06 23:00:37 EET 2013	MyPartitionedService	2	Wed Feb 06 23:00:37 EET 2013	0.0	0	0	0.0	0.0	0	0.0	0	0.0
+1	Wed Feb 06 23:06:50 EET 2013	MyPartitionedService	1	Wed Feb 06 23:06:50 EET 2013	395	0	0	0	0	0	0	0	0
+1	Wed Feb 06 23:06:50 EET 2013	MyPartitionedService	2	Wed Feb 06 23:06:50 EET 2013	137	0	0	0	0	0	0	0	0
+1	Wed Feb 06 23:06:51 EET 2013	MyPartitionedService	1	Wed Feb 06 23:06:51 EET 2013	395	0	0	0	0	0	0	0	0
+1	Wed Feb 06 23:06:51 EET 2013	MyPartitionedService	2	Wed Feb 06 23:06:51 EET 2013	137	0	0	0	0	0	0	0	0
+1	Wed Feb 06 23:09:22 EET 2013	MyPartitionedService	1	Wed Feb 06 23:09:22 EET 2013	6	0	0	0	0	0	0	0	0
+1	Wed Feb 06 23:12:34 EET 2013	MyPartitionedService	1	Wed Feb 06 23:12:34 EET 2013	396	0	0	0	0	0	0	0	0
+1	Wed Feb 06 23:12:34 EET 2013	MyPartitionedService	2	Wed Feb 06 23:12:34 EET 2013	137	0	0	0	0	0	0	0	0
+1	Wed Feb 06 23:12:35 EET 2013	MyPartitionedService	1	Wed Feb 06 23:12:35 EET 2013	396	0	0	0	0	0	0	0	0
+1	Wed Feb 06 23:12:35 EET 2013	MyPartitionedService	2	Wed Feb 06 23:12:35 EET 2013	137	0	0	0	0	0	0	0	0
+2	Wed Feb 06 23:13:35 EET 2013	MyPartitionedService	1	Wed Feb 06 23:13:35 EET 2013	0.0	0	0	0.0	0.0	0	0.0	0	0.0
+2	Wed Feb 06 23:13:35 EET 2013	MyPartitionedService	2	Wed Feb 06 23:13:35 EET 2013	0.0	0	0	0.0	0.0	0	0.0	0	0.0
+2	Wed Feb 06 23:13:35 EET 2013	MyPartitionedService	1	Wed Feb 06 23:13:35 EET 2013	0.0	0	0	0.0	0.0	0	0.0	0	0.0
+2	Wed Feb 06 23:13:35 EET 2013	MyPartitionedService	2	Wed Feb 06 23:13:35 EET 2013	0.0	0	0	0.0	0.0	0	0.0	0	0.0

@@ -1,0 +1,9 @@
+Batch Counter	Report Time	JVM Uptime	Node Id	GC Name	CollectionCount	Delta Collection Count	CollectionTime	Delta Collection Time	Last GC Start Time	Last GC Duration Millis	Heap Committed	Heap Init	Heap Max	Heap Used
+150	Thu Feb 07 08:02:13 EET 2013	30592360	1	Garbage collection optimized for throughput Old Collector	5	0.0	196	0.0	8794135	20.0	67108864	67108864	3221225472	38690448
+150	Thu Feb 07 08:02:13 EET 2013	30592361	1	Garbage collection optimized for throughput Young Collector	119	0.0	727	0.0	8974496	2.0	67108864	67108864	3221225472	38690448
+150	Thu Feb 07 08:02:13 EET 2013	30590217	2	Garbage collection optimized for throughput Old Collector	5	0.0	366	0.0	8795220	19.0	67108864	67108864	3221225472	34603320
+150	Thu Feb 07 08:02:13 EET 2013	30590219	2	Garbage collection optimized for throughput Young Collector	120	1.0	938	3.0	8975723	3.0	67108864	67108864	3221225472	34603320
+151	Thu Feb 07 08:04:50 EET 2013	30747071	2	Garbage collection optimized for throughput Old Collector	5	0.0	366	0.0	30394137	19.0	67108864	67108864	3221225472	43859328
+151	Thu Feb 07 08:04:50 EET 2013	30749280	1	Garbage collection optimized for throughput Old Collector	5	0.0	196	0.0	30393052	20.0	67108864	67108864	3221225472	35788168
+151	Thu Feb 07 08:04:50 EET 2013	30749281	1	Garbage collection optimized for throughput Young Collector	120	1.0	786	59.0	30592524	58.0	67108864	67108864	3221225472	35788168
+151	Thu Feb 07 08:04:50 EET 2013	30747072	2	Garbage collection optimized for throughput Young Collector	120	0.0	938	0.0	30574640	3.0	67108864	67108864	3221225472	43859328

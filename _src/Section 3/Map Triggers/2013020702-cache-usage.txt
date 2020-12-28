@@ -1,0 +1,5 @@
+Batch Counter	Report Time	Service	Cache Name	Tier	Total Puts	Total PutsMillis	Total Gets	Total Gets Millis	Total Hits	Total Hits Millis	Total Misses	Total Misses Millis	Total Writes	Total Write Millis	Total Reads	Total Read Millis	Total Failures	Total Queue	evictions	Cache Prunes	Cache Prunes Millis
+148	Thu Feb 07 02:00:55 EET 2013	MyPartitionedService	customers	back	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+148	Thu Feb 07 02:00:59 EET 2013	MyPartitionedService	customers	back	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+149	Thu Feb 07 02:01:55 EET 2013	MyPartitionedService	customers	back	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+149	Thu Feb 07 02:01:59 EET 2013	MyPartitionedService	customers	back	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0

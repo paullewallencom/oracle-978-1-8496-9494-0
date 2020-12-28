@@ -1,0 +1,5 @@
+Batch Counter	Report Time	RefreshTime	Node Id	UnicastAddress	MemberName	ProcessName	RoleName	MachineName	RackName	SiteName
+1	Wed Feb 06 22:59:35 EET 2013	Wed Feb 06 22:59:35 EET 2013	1	/192.168.1.38	n/a	692	PacktpubScreencastListenAll	TT07051309T	n/a	n/a
+1	Wed Feb 06 22:59:35 EET 2013	Wed Feb 06 22:59:35 EET 2013	2	/192.168.1.38	n/a	9104	PacktpubScreencastListenAll	TT07051309T	n/a	n/a
+1	Wed Feb 06 22:59:35 EET 2013	Wed Feb 06 22:59:35 EET 2013	1	/192.168.1.38	n/a	692	PacktpubScreencastListenAll	TT07051309T	n/a	n/a
+1	Wed Feb 06 22:59:35 EET 2013	Wed Feb 06 22:59:35 EET 2013	2	/192.168.1.38	n/a	9104	PacktpubScreencastListenAll	TT07051309T	n/a	n/a

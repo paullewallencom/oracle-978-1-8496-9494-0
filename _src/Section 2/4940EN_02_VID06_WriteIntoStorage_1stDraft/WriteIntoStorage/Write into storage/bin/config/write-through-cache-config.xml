@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+
+
+<cache-config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns="http://xmlns.oracle.com/coherence/coherence-cache-config"
+	xsi:schemaLocation="http://xmlns.oracle.com/coherence/coherence-cache-config coherence-cache-config.xsd">
+	<defaults>
+		<serializer>pof</serializer>
+	</defaults>
+
+	<caching-scheme-mapping>
+		<cache-mapping>
+			<cache-name>customers</cache-name>
+			<scheme-name>MyDistributedSchema</scheme-name>
+
+		</cache-mapping>
+
+	</caching-scheme-mapping>
+
+	<caching-schemes>
+
+
+		<distributed-scheme>
+			<scheme-name>MyDistributedSchema</scheme-name>
+			<backing-map-scheme>
+				<read-write-backing-map-scheme>
+					<internal-cache-scheme>
+						<local-scheme>
+							<eviction-policy>LRU</eviction-policy>
+							<high-units>20</high-units>
+							<unit-calculator>FIXED</unit-calculator>
+							<expiry-delay>30s</expiry-delay>
+						</local-scheme>
+					</internal-cache-scheme>
+					<cachestore-scheme>
+						<class-scheme>
+							<class-name>
+								com.packtpub.screencast.coherence.data.CustomerStore
+							</class-name>
+						</class-scheme>
+					</cachestore-scheme>
+				</read-write-backing-map-scheme>
+			</backing-map-scheme>
+			<autostart>true</autostart>
+
+		</distributed-scheme>
+	</caching-schemes>
+</cache-config>

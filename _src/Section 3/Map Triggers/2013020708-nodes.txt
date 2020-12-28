@@ -1,0 +1,5 @@
+Batch Counter	Report Time	RefreshTime	Node Id	UnicastAddress	MemberName	ProcessName	RoleName	MachineName	RackName	SiteName
+150	Thu Feb 07 08:02:13 EET 2013	Thu Feb 07 08:02:13 EET 2013	1	/192.168.1.38	n/a	11032	PacktpubCacheInsertGetTrigger	TT07051309T	n/a	n/a
+150	Thu Feb 07 08:02:13 EET 2013	Thu Feb 07 08:02:13 EET 2013	2	/192.168.1.38	n/a	10964	PacktpubCacheInsertGetTrigger	TT07051309T	n/a	n/a
+151	Thu Feb 07 08:04:50 EET 2013	Thu Feb 07 08:04:50 EET 2013	2	/192.168.1.38	n/a	10964	PacktpubCacheInsertGetTrigger	TT07051309T	n/a	n/a
+151	Thu Feb 07 08:04:50 EET 2013	Thu Feb 07 08:04:50 EET 2013	1	/192.168.1.38	n/a	11032	PacktpubCacheInsertGetTrigger	TT07051309T	n/a	n/a

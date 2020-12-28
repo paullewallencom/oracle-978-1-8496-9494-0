@@ -1,0 +1,3 @@
+Batch Counter	Report Time	Min Node Rx Success	Grid Rx Success	Min Node Tx Success	Grid Tx Success
+1	Wed Feb 06 22:59:36 EET 2013	1.0	1.0	1.0	1.0
+1	Wed Feb 06 22:59:36 EET 2013	1.0	1.0	1.0	1.0

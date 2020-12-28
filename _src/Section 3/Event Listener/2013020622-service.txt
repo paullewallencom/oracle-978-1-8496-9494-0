@@ -1,0 +1,5 @@
+Batch Counter	ReportTime	Service	Node Id	RefreshTime	Request Count	RequestPendingCount	RequestPendingDuration	Request Timeout Count	Task Count	TaskBacklog	Task Timeout Count	Task Hung Count	Thread Abandoned Count
+1	Wed Feb 06 22:59:36 EET 2013	MyPartitionedService	1	Wed Feb 06 22:59:36 EET 2013	398	0	0	0	0	0	0	0	0
+1	Wed Feb 06 22:59:36 EET 2013	MyPartitionedService	2	Wed Feb 06 22:59:36 EET 2013	137	0	0	0	0	0	0	0	0
+1	Wed Feb 06 22:59:36 EET 2013	MyPartitionedService	1	Wed Feb 06 22:59:36 EET 2013	398	0	0	0	0	0	0	0	0
+1	Wed Feb 06 22:59:36 EET 2013	MyPartitionedService	2	Wed Feb 06 22:59:36 EET 2013	137	0	0	0	0	0	0	0	0

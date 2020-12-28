@@ -1,0 +1,17 @@
+Batch Counter	Report Time	JVM Uptime	Node Id	GC Name	CollectionCount	Delta Collection Count	CollectionTime	Delta Collection Time	Last GC Start Time	Last GC Duration Millis	Heap Committed	Heap Init	Heap Max	Heap Used
+148	Thu Feb 07 02:00:55 EET 2013	8914415	1	Garbage collection optimized for throughput Old Collector	5	0.0	196	0.0	8794135	20.0	67108864	67108864	3221225472	27362656
+148	Thu Feb 07 02:00:55 EET 2013	8912204	2	Garbage collection optimized for throughput Old Collector	5	0.0	366	0.0	8795220	19.0	67108864	67108864	3221225472	34237240
+148	Thu Feb 07 02:00:55 EET 2013	8914418	1	Garbage collection optimized for throughput Young Collector	118	1.0	725	6.0	8914376	6.0	67108864	67108864	3221225472	27362656
+148	Thu Feb 07 02:00:55 EET 2013	8912204	2	Garbage collection optimized for throughput Young Collector	118	1.0	930	10.0	8855473	9.0	67108864	67108864	3221225472	34237240
+148	Thu Feb 07 02:00:59 EET 2013	8917753	1	Garbage collection optimized for throughput Old Collector	5	0.0	196	0.0	8794135	20.0	67108864	67108864	3221225472	40451600
+148	Thu Feb 07 02:00:59 EET 2013	8915615	2	Garbage collection optimized for throughput Old Collector	5	0.0	366	0.0	8795220	19.0	67108864	67108864	3221225472	36220584
+148	Thu Feb 07 02:00:59 EET 2013	8917753	1	Garbage collection optimized for throughput Young Collector	118	1.0	725	6.0	8914376	6.0	67108864	67108864	3221225472	40451600
+148	Thu Feb 07 02:00:59 EET 2013	8915618	2	Garbage collection optimized for throughput Young Collector	118	1.0	930	10.0	8855473	9.0	67108864	67108864	3221225472	37827224
+149	Thu Feb 07 02:01:55 EET 2013	8974513	1	Garbage collection optimized for throughput Old Collector	5	0.0	196	0.0	8794135	20.0	67108864	67108864	3221225472	26197416
+149	Thu Feb 07 02:01:55 EET 2013	8972328	2	Garbage collection optimized for throughput Old Collector	5	0.0	366	0.0	8795220	19.0	67108864	67108864	3221225472	35058536
+149	Thu Feb 07 02:01:55 EET 2013	8974515	1	Garbage collection optimized for throughput Young Collector	119	1.0	727	2.0	8974496	2.0	67108864	67108864	3221225472	26197416
+149	Thu Feb 07 02:01:55 EET 2013	8972328	2	Garbage collection optimized for throughput Young Collector	119	1.0	935	5.0	8915640	5.0	67108864	67108864	3221225472	35058536
+149	Thu Feb 07 02:01:59 EET 2013	8977860	1	Garbage collection optimized for throughput Old Collector	5	0.0	196	0.0	8794135	20.0	67108864	67108864	3221225472	34774272
+149	Thu Feb 07 02:01:59 EET 2013	8975708	2	Garbage collection optimized for throughput Old Collector	5	0.0	366	0.0	8795220	19.0	67108864	67108864	3221225472	35574376
+149	Thu Feb 07 02:01:59 EET 2013	8977860	1	Garbage collection optimized for throughput Young Collector	119	1.0	727	2.0	8974496	2.0	67108864	67108864	3221225472	34774272
+149	Thu Feb 07 02:01:59 EET 2013	8975709	2	Garbage collection optimized for throughput Young Collector	119	1.0	935	5.0	8915640	5.0	67108864	67108864	3221225472	35574376

@@ -1,0 +1,10 @@
+Batch Counter	ReportTime	RefreshPolicy	RefreshTime	RefreshExcessCount	RefreshCount	RefreshPredictionCount	RefreshTimeoutCount
+2	Wed Feb 06 23:00:36 EET 2013	refresh-ahead	Wed Feb 06 23:00:36 EET 2013	8	9	7	0
+2	Wed Feb 06 23:00:37 EET 2013	refresh-ahead	Wed Feb 06 23:00:37 EET 2013	8	9	7	0
+1	Wed Feb 06 23:06:50 EET 2013	refresh-ahead	Wed Feb 06 23:06:50 EET 2013	8	8	0	0
+1	Wed Feb 06 23:06:51 EET 2013	refresh-ahead	Wed Feb 06 23:06:51 EET 2013	8	8	0	0
+1	Wed Feb 06 23:09:22 EET 2013	refresh-ahead	Wed Feb 06 23:09:22 EET 2013	0	0	0	0
+1	Wed Feb 06 23:12:35 EET 2013	refresh-ahead	Wed Feb 06 23:12:35 EET 2013	8	8	0	0
+1	Wed Feb 06 23:12:35 EET 2013	refresh-ahead	Wed Feb 06 23:12:35 EET 2013	8	8	0	0
+2	Wed Feb 06 23:13:35 EET 2013	refresh-ahead	Wed Feb 06 23:13:35 EET 2013	8	9	7	0
+2	Wed Feb 06 23:13:35 EET 2013	refresh-ahead	Wed Feb 06 23:13:35 EET 2013	8	9	7	0
